@@ -21,7 +21,7 @@ repository               : "4N0NYM0U5MY7H/4N0NYM0U5MY7H.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "August Frisk"
   pronouns         : # example: "she/her"  
   bio              : "Programmer, GIS specialist, researcher, (aspiring) environmental scientist."
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : Parasiticfrisk
   xing             : # Username
-  youtube          : obad-hai
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

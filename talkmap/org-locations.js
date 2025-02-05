@@ -1,22 +1,32 @@
 var addressPoints = [
-  [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+  [  //SJCV 2024 - CGS Outreach
+    "Turlock, CA",
+    37.52341975052011,
+    -120.86027057503902
   ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+  [  //SWCS 2024 - CGS Outreach
+    "Chico, CA",
+    39.724776454256975,
+    -121.81593021896576
   ],
-  [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+  [  //APCG 2024 - CGS Outreach
+    "Aracata, CA",
+    40.87651986675132,
+    -124.08016705673897
   ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+  [  //CNPS Guided Hike #3
+    "Turlock, CA",
+    37.522452979860155,
+    -120.85292052784573
+  ],
+  [ //CNPS Guided Hike #2
+    "Turlock, CA",
+    37.522452979860155,
+    -120.85292052784573
+  ],
+  [ //CNPS Guided Hike #1
+    "Turlock, CA",
+    37.522452979860155,
+    -120.85292052784573
   ]
 ];

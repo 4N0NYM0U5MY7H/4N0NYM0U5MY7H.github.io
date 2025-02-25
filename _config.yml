@@ -233,7 +233,7 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
-  undergrad:
+  software:
     output: true
     permalink: /:collection/:path/
 

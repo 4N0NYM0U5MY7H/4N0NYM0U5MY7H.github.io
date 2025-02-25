@@ -12,9 +12,8 @@ Concetta (CeCe) Hurst-Hart, president of the Northern San Joaquin Valley chapter
 
 ## Social Media
 Observational photographs that I took during this event were shared on iNaturalist and Instagram.
-* [View iNaturalist observations](https://www.inaturalist.org/observations?on=2024-08-03&place_id=340&project_id=california-state-university-stanislaus&search_on=tags&subview=table)
-* [View Instagram post 1](https://www.instagram.com/p/C-zc0cnR-hA/)
-* [View Instagram post 2](https://www.instagram.com/p/C-zeqVnRSC2/)
+
+<a href="https://www.inaturalist.org/observations?on=2024-08-03&place_id=340&project_id=california-state-university-stanislaus&search_on=tags&subview=table"><i class="ai ai-2x ai-inaturalist" aria-hidden="true"></i>iNaturalist</a>   <a href="https://www.instagram.com/p/C-zc0cnR-hA/"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a>
 
 ## Acknowledgments
 * [Concetta (CeCe) Hurst-Hart](https://www.linkedin.com/in/ecologynerd/)

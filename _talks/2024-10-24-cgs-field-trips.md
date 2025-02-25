@@ -3,7 +3,7 @@ title: "Climate-action and the intersection of sustainability and agriculture in
 collection: talks
 type: "Poster, Presentation"
 permalink: /talks/2024-10-24-cgs-field-trips
-venue: "Cal Poly Humboldt & Sierra Nevada Brewing Company & California State University Stanislaus"
+venue: ""
 date: 2024-10-24
 location: "California"
 --- 

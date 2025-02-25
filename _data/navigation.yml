@@ -11,8 +11,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Projects"
-    url: /portfolio/
+  # - title: "Projects"
+  #   url: /portfolio/
 
   - title: "Presentations"
     url: /talks/
@@ -20,6 +20,9 @@ main:
   - title: "Awards"
     url: /awards/
   
+  - title: "Software"
+    url: /software/
+    
   - title: "Service"
     url: /service/
 

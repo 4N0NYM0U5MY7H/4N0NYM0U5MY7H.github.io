@@ -3,9 +3,9 @@ title: "California Native Plant Society Guided Hike Series: Bug Walk part 3"
 collection: talks
 type: "Guided Hike, workshop"
 permalink: /talks/2024-08-31-bug-walk-part-3
-venue: "Trans-California Pathway, California State University Stanislaus"
+venue: "Trans-California Pathway"
 date: 2024-08-31
-location: "Turlock, CA"
+location: "Turlock, CA, USA"
 ---
 
 The final part of a three-part workshop series for the California Native Plant Society exploring the intricate relationship between native plants and invertebrates. We concluded this series with a guided tour of the Trans-California pathway, where participants learned about the vital role of native plants in supporting diverse invertebrate communities and the broader ecosystem. Particpants were encouraged to look for signs of insects and other arthropods. We had the opportunity to handle a variety of insects, including *Stagmomantis limbata*, *Boisea rubrolineata*, and *Murganita histrionica*. 

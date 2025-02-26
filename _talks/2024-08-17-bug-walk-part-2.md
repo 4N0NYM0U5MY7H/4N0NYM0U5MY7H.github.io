@@ -3,9 +3,9 @@ title: "California Native Plant Society Guided Hike Series: Bug Walk part 2"
 collection: talks
 type: "Guided Hike, workshop"
 permalink: /talks/2024-08-17-bug-walk-part-2
-venue: "Trans-California Pathway, California State University Stanislaus"
+venue: "Trans-California Pathway"
 date: 2024-08-17
-location: "Turlock, CA"
+location: "Turlock, CA, USA"
 ---
 
 The second part of a three-part workshop series for the California Native Plant Society exploring the intricate relationship between native plants and invertebrates. This walk focused on the unintended consequences of insecticides. We discussed how targeted "pests" are usually not affected in a way that deters them from returning. We also talked about how these pesticides are more effective at killing their natural predators than the intended "pest" species. We found many dead/dying arthropods that showed signs of recent exposure to insecticides on the south side of Naraghi Hall, around Willow Lake, near the Greenhouse, and on the western edge of the Trans-California Pathway.

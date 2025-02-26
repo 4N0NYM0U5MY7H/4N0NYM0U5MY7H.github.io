@@ -1,4 +1,9 @@
 var addressPoints = [
+  [  //Sustainability Showcase 2025
+    "Turlock, CA",
+    37.5248452,
+    -120.8613437,877
+  ],
   [  //SJCV 2024 - CGS Outreach
     "Turlock, CA",
     37.52341975052011,

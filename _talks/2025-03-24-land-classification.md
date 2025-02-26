@@ -5,7 +5,7 @@ type: "Lightning talk, Presentation"
 permalink: /talks/2025-03-24-land-classification
 venue: "Sustainability Showcase"
 date: 2025-03-24
-location: "California State University Stanislaus"
+location: "Turlock, CA, USA"
 --- 
 
 I presented on behalf of the HEIR Lab at the Sustainability Showcase. This lightning talk highlighted the current progress and past work of previous students on the land classification project. I focused on the ecosystem benefits and services provided by the university's urban forest. I also discussed the potential for future research and the importance of community engagement in the project.

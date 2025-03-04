@@ -84,6 +84,10 @@ Teaching
 <br>Dos Rios State Park
 <br><i>Oct 2024 — present</i></p>
 
+*	Assisted park interpreters on guided hikes covering themes such as bird identification, native plant ecology, floodplain dynamics, and river confluences.
+*	Educated visitors on the natural history, geography, and ecological significance of the park and its restoration efforts led by River Partners.
+*	Taught visitors about local flora and fauna, enhancing public awareness of biodiversity conservation.
+
 <p><b>Student Representative</b>
 <br>California Geographical Society
 <br><i>Aug 2024 — present</i></p>

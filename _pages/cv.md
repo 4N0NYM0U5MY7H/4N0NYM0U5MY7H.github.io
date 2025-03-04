@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,17 +13,17 @@ redirect_from:
 
 <p><b>B.S., Geography and Environmental Resources, minor Computer Science</b>
 <br>California State University Stanislaus
-<br>August 2024 — May 2026 (expected)</p>
+<br><i>Aug 2024 — May 2026 (expected)</i></p>
 
 <p><b>Certificate, Computer Networking</b>
 <br>Modesto Junior College
-<br>June 2017 — April 2018</p>
+<br><i>Jun 2017 — Apr 2018</i></p>
 
 ## WORK EXPERIENCE
 
 <p><b>Research Assistant</b>
 <br>Human-Environment Interaction Researh (HEIR) Lab, California State University Stanislaus
-<br>January 2025 — present
+<br><i>Jan 2025 — present</i>
 <br>Supervisor: José R. Díaz-Garayúa Ph.D.</p>
 
 * Conducted tree identification in city parks using field manuals, online databases, and expert consultations.
@@ -33,7 +33,7 @@ redirect_from:
 
 <p><b>GIS Intern</b>
 <br>California State University Stanislaus
-<br>October 2024 — present</p>
+<br><i>Oct 2024 — present</i></p>
 
 *	Developed and maintained geodatabases for university projects using ArcGIS Pro & ArcGIS Online to enhance spatial data management.
 *	Collected high-accuracy geolocation data with Trimble Geo7X GNSS for campus features and mapping.
@@ -42,7 +42,7 @@ redirect_from:
 
 <p><b>Climate Action Fellow</b>
 <br>College Corps, California State University Stanislaus
-<br>August 2024 — present</p>
+<br><i>Aug 2024 — present</i></p>
 
 *	Participated in restoration projects across California, including urban green space initiatives, native vegetation plantings, and invasive species removal.
 *	Assisted in maintaining the Trans-California Pathway, a native plant arboretum, supporting urban habitat and species conservation.
@@ -78,28 +78,28 @@ Teaching
   {% endfor %}</ul>
 -->
   
-## VOLUNTEER EXPERIENCE
+## VOLUNTEERING & COMMUNITY ACTION
 
 <p><b>Docent</b>
 <br>Dos Rios State Park
-<br>October 2024 — present</p>
+<br><i>Oct 2024 — present</i></p>
 
 <p><b>Student Representative</b>
 <br>California Geographical Society
-<br>August 2024 — present</p>
+<br><i>Aug 2024 — present</i></p>
 
 <p><b>Citizen Scientist</b>
 <br>Independent | iNaturalist | Forbes Lab, University of Iowa
-<br>June 2022 — present</p>
+<br><i>Jun 2022 — present</i></p>
 
-*	Conducted fieldwork for the Forbes Lab (University of Iowa) by collecting Cynipidae (gall wasps), plants galls, and inquiline specimens for DNA sequencing, insect rearing, and parasitic insect ecology studies.
+*	Participated in BioBlitzes & species count events across California, contributing to biodiversity assessments and conservation efforts.
 *	Identified North American terrestrial invertebrates, specializing in Western North American Agelenidae, Lycosidae, and Zoropsidae spider families.
 *	Monitored and documented insect species in California's Northern San Joaquin Valley, supporting ecological research.
-*	Participated in BioBlitzes & species count events across California, contributing to biodiversity assessments and conservation efforts.
+*	Conducted fieldwork for the Forbes Lab (University of Iowa) by collecting Cynipidae (gall wasps), plants galls, and inquiline specimens for DNA sequencing, insect rearing, and parasitic insect ecology studies.
 
 <p><b>Web Developer</b>
 <br>Computing Alliance of Hispanic-Serving Institutions (CAHSI), California State University Stanislaus
-<br>March 2021 — December 2021</p>
+<br><i>Mar 2021 — Dec 2021</i></p>
 
 *	Redesigned the club website to improve user experience and accessibility compliance with IBM Accessibility tool.
 *	Implemented a responsive design to ensure optimal viewing on all devices.

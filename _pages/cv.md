@@ -92,6 +92,10 @@ Teaching
 <br>California Geographical Society
 <br><i>Aug 2024 — present</i></p>
 
+*	Promoted the 2025 annual conference at multiple events across California, increasing visibility and participation.
+*	Assisted in developing the San Joaquin Valley Wetlands field trip, integrating wetland ecology and conservation themes.
+*	Designed and launched the 2025 conference website using Google Sites, creating a cost-effective, user-friendly alternative for future events.
+
 <p><b>Citizen Scientist</b>
 <br>Independent | iNaturalist | Forbes Lab, University of Iowa
 <br><i>Jun 2022 — present</i></p>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aguust Frisk"
+title: "August Frisk"
 author_profile: true
 redirect_from: 
   - /about/

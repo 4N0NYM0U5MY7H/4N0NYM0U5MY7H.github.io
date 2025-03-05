@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install getorg pandas requests beautifulsoup4 geopy
+        pip install beautifulsoup4 fronmatter geopy getorg pandas requests 
 
     - name: Run Python script
       run: |

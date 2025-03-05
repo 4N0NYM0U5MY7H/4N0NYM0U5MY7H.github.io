@@ -5,7 +5,7 @@ type: "Poster, Presentation"
 permalink: /talks/2024-10-24-cgs-field-trips
 venue: "Cal Poly Humboldt, California State University Stanislaus, Sierra Nevada Brewing Company"
 date: 2024-10-24
-location: "CA, USA"
+location: ""
 --- 
 
 I provided outreach and support for the California Geographical Society (CSG) annual conference by presenting at several conferences across California advertising field trips exploring climate resiliency and sustainability in the northern San Joaquin Valley.

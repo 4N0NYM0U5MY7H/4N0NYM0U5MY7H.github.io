@@ -22,7 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install glob getorg pandas requests beautifulsoup4 geopy 
+        pip install getorg pandas requests beautifulsoup4 geopy 
         pip --upgrade pip
 
     - name: Run Python script

@@ -1,10 +1,10 @@
 name: Scrape Talk Locations
 
 on:
-  # push:
-  #   paths:
-  #     - 'talks/**'
-  #     - 'talkmap.ipynb'
+  push:
+    paths:
+      - 'talks/**'
+  #    - 'talkmap.ipynb'
   workflow_dispatch:
 
 jobs:
@@ -22,13 +22,12 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
-        pip install getorg --upgrade pip ipython ipykernel
+        pip install glob getorg pandas requests beautifulsoup4 geopy 
+        pip --upgrade pip
 
-    - name: Run Jupyter Notebook
+    - name: Run Python script
       run: |
-        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
-
+        python talks/scrape_talks.py
     - name: Commit changes
       run: |
         git config user.name "github-actions[bot]"

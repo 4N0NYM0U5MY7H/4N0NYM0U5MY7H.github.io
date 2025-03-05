@@ -12,7 +12,8 @@ The final part of a three-part workshop series for the California Native Plant S
 
 ## Social Media
 My wonderful wife and life partner Jennifer took photographs and shared a post on LinkedIn.
-* [View LinkedIn post](https://www.linkedin.com/posts/jennifer-mm-frisk_to-continue-bragging-about-my-bestie-august-activity-7235727415614791680-JEDS)
+
+<a href="https://www.linkedin.com/posts/jennifer-mm-frisk_to-continue-bragging-about-my-bestie-august-activity-7235727415614791680-JEDS"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
 
 ## Acknowledgments
 * [Concetta (CeCe) Hurst-Hart](https://www.linkedin.com/in/ecologynerd/)

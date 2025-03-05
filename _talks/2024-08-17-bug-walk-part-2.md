@@ -12,8 +12,8 @@ The second part of a three-part workshop series for the California Native Plant 
 
 ## Social Media
 Observational photographs that I took during this event were shared on iNaturalist and Instagram.
-* [View iNaturalist observations](https://www.inaturalist.org/observations?on=2024-08-17&place_id=340&project_id=california-state-university-stanislaus&search_on=tags&subview=table)
-* [View Instagram post](https://www.instagram.com/p/C-1LAs-yOv5/)
+
+<a href="https://www.inaturalist.org/observations?on=2024-08-17&place_id=340&project_id=california-state-university-stanislaus&search_on=tags&subview=table"><i class="ai ai-2x ai-inaturalist" aria-hidden="true"></i>iNaturalist</a>   <a href="https://www.instagram.com/p/C-1LAs-yOv5/"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i>Instagram</a>
 
 ## Acknowledgments
 * [Concetta (CeCe) Hurst-Hart](https://www.linkedin.com/in/ecologynerd/)

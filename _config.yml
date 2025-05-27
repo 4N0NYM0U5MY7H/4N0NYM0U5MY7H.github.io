@@ -92,7 +92,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -224,7 +223,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
   workshops:
@@ -294,12 +293,12 @@ defaults:
       author_profile: true
       share: false
       comment: false
-  # _talks
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
-      layout: talk
+      layout: presentation
       author_profile: true
       share: false
 

@@ -16,7 +16,7 @@ I was nominated for the Student of the Year award at Modesto Junior College. Thi
 This nomination reflects my journey, which has been defined by resilience and determination. From navigating an unconventional educational path to excelling in my studies while managing multiple jobs and family responsibilities, I have consistently demonstrated a commitment to personal growth and academic excellence.
 
 ## More Information
-Read more about my experience in this blog post: [Student of the Year Nomination]({site.baseurl}/posts/2018/02/soty-nomination/)
+Read more about my experience in this blog post: [Student of the Year Nomination](https://4n0nym0u5my7h.github.io/posts/2018/02/soty-nomination/)
 
 
 ## Acknowledgments

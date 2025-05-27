@@ -301,6 +301,14 @@ defaults:
       layout: presentation
       author_profile: true
       share: false
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: award
+      author_profile: true
+      share: false
 
 
 # Sass/SCSS

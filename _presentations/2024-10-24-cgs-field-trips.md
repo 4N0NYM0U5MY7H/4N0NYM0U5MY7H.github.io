@@ -3,9 +3,9 @@ title: "Climate-action and the intersection of sustainability and agriculture in
 collection: presentations
 type: "Poster"
 permalink: /presentations/2024-10-24-cgs-field-trips
-venue: "APCG Annual Conference / CA/NV SWCS Annual Conference / SJCV Conference"
+venue: "APCG Annual Conference, CA/NV SWCS Annual Conference & SJCV Conference"
 date: 2024-10-24
-location: "Arcata / Chico / Turlock, CA, USA"
+location: "Arcata, Chico & Turlock, CA, USA"
 --- 
 
 I provided outreach and support for the California Geographical Society (CSG) annual conference by presenting at various conferences across California, promoting field trips that explore climate resiliency and sustainability in the northern San Joaquin Valley.

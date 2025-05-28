@@ -8,9 +8,6 @@ venue: "CalWORKs Program"
 location: "Modesto Junior College"
 ---
 
-{% include base_path %}
-
-
 I was nominated for the Student of the Year award at Modesto Junior College. This nomination recognizes a student who excels in balancing the demands of school, work, family life, and personal challenges, all while achieving academic success and contributing to the college community.
 
 This nomination reflects my journey, which has been defined by resilience and determination. From navigating an unconventional educational path to excelling in my studies while managing multiple jobs and family responsibilities, I have consistently demonstrated a commitment to personal growth and academic excellence.

@@ -5,7 +5,6 @@ type: "Travel Grant"
 permalink: /awards/2024-sersca-travel-grant
 date: 2024-10-24
 venue: "Student Engagement in Research, Scholarship, and Creative Activity (SERSCA)"
-location: "California State University, Stanislaus"
 amount: "$1200"
 ---
 

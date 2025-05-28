@@ -4,8 +4,7 @@ collection: awards
 type: "Nomination"
 permalink: /awards/2018-soty-nomination
 date: 2018-04-13
-venue: "CalWORKs Program"
-location: "Modesto Junior College"
+venue: "Modesto Junior College"
 ---
 
 I was nominated for the Student of the Year award at Modesto Junior College. This nomination recognizes a student who excels in balancing the demands of school, work, family life, and personal challenges, all while achieving academic success and contributing to the college community.

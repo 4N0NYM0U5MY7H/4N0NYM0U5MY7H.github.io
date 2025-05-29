@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "August Frisk"
+site_theme               : "default"
 title_separator          : "-"
 name                     : &name "August Frisk"
 description              : &description "Programmer, GIS specialist, researcher, (aspiring) environmental scientist."

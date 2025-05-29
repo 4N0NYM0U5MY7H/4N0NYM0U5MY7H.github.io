@@ -13,7 +13,10 @@ I provided outreach and support for the California Geographical Society (CSG) an
 ## Conferences
 * **2024 Social Justice in the Central Valley Conference**. California State University, Stanislaus. Turlock, CA, October 23-25.
 * **2024 California / Nevada chapter of the Soil and Water Conservation Society (CA/NV SWCS) Annual Conference**. Sierra Nevada Brewing Company. Chico, CA, October 9-10.
-* **86th Annual Conference of the Association of Pacific Coast Geographers (APCG)**. Cal Poly Humboldt. Arcata, CA, October 5-7, 2024.
+* **86th Annual Conference of the Association of Pacific Coast Geographers (APCG)**. Cal Poly Humboldt. Arcata, CA, October 3-5, 2024.
+
+### Awards
+* **Second Place**: Best Undergraduate Poster Presentation, CA/NV SWCS Annual Conference, 2024.
 
 ## Funding
 * Stanislaus State College Corps

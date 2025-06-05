@@ -29,7 +29,7 @@ I am an undergraduate researcher specializing in Geography and Environmental Res
 ### Field Research Assistant — Forbes Lab, University of Iowa
 (August 2023 – Present)
 * Conducted fieldwork on Cynipidae (gall wasps), documenting plant-insect interactions, collecting galls, and studying parasitic insect communities.
-* Reared insect specimens to monitor life cycles and prepare sampples for DNA sequencing and parasitic ecology research.
+* Reared insect specimens to monitor life cycles and prepare samples for DNA sequencing and parasitic ecology research.
 
 <hr />
 
